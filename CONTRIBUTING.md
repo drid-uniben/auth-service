@@ -11,13 +11,13 @@ This project follows the Code of Conduct in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT
 Prerequisites:
 
 - Node.js (recommended 20+)
-- npm or pnpm
+- pnpm
 - A running database instance (see README for details)
 
 Install dependencies:
 
 ```bash
-npm install
+pnpm install
 ```
 
 Create your environment file:
@@ -27,7 +27,7 @@ Create your environment file:
 Run locally:
 
 ```bash
-npm run dev
+pnpm dev
 ```
 
 ## Branching & workflow

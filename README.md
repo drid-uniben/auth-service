@@ -18,12 +18,12 @@ This service handles user authentication and authorization, including registrati
 ### Prerequisites
 
 - Node.js 20+
-- npm or pnpm
+- pnpm
 
 ### Installation
 
 ```bash
-npm install
+pnpm install
 ```
 
 ### Environment Setup
@@ -37,7 +37,7 @@ cp .env.example .env
 ### Running Locally
 
 ```bash
-npm run dev
+pnpm dev
 ```
 
 ## API Documentation
@@ -50,4 +50,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening issues or pull req
 
 ## License
 
-MIT
+[Apache License 2.0](LICENSE)
